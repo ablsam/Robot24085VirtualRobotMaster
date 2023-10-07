@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Robot3939VirtualRobotMaster/Controller/Controller.iml" filepath="$PROJECT_DIR$/Robot3939VirtualRobotMaster/Controller/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Robot3939VirtualRobotMaster.iml" filepath="$PROJECT_DIR$/.idea/Robot3939VirtualRobotMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot3939VirtualRobotMaster/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/Robot3939VirtualRobotMaster/TeamCode/TeamCode.iml" />
+    </modules>
+  </component>
+</project>
