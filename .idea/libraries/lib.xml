@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Robot3939VirtualRobotMaster/lib/guava-20.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/Robot3939VirtualRobotMaster/lib/javassist-3.21.0-GA.jar!/" />
-      <root url="jar://$PROJECT_DIR$/Robot3939VirtualRobotMaster/lib/Jamepad.jar!/" />
-      <root url="jar://$PROJECT_DIR$/Robot3939VirtualRobotMaster/lib/reflections-0.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Robot24085VirtualRobotMaster/lib/guava-20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Robot24085VirtualRobotMaster/lib/javassist-3.21.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Robot24085VirtualRobotMaster/lib/Jamepad.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Robot24085VirtualRobotMaster/lib/reflections-0.9.11.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
